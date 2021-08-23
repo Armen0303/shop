@@ -1,0 +1,43 @@
+h1 { 
+  background-image:url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg );
+  font-size: 150px; 
+  text-align: center;
+  color:burlywood
+}
+
+.bush{ 
+  background-color:blue;
+  font-size: 80px; 
+  text-align: center;
+  color:burlywood
+}
+
+
+.frame{ 
+  background-color:red;
+  font-size: 80px; 
+  text-align: center;
+  color:burlywood
+}
+
+
+.pain{ 
+  background-color:crimson;
+  font-size: 80px; 
+  text-align: center;
+  color:burlywood
+}
+h1,h2,h3, p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.price{
+  color:darkblue;
+  font-size:medium;
+  font-weight: 1000;
+}
+.item h2{
+  color:white;
+  font-size: 50px;
+}
+
+
